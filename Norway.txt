@@ -260,8 +260,8 @@ ukkelberg.no
 varg.no
 velorbis-bikes.no
 veteranutleie.no
-www.vg.no/kommersielt-innhold/shopping/
-www.dagbladet.no/annonsorinnhold/
+vg.no
+dagbladet.no
 vibb.no
 villanytt.no
 volvoselektshop.no
