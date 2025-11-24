@@ -184,7 +184,7 @@ grilldressene.no
 0.0.0.0 www.modhi.no
 0.0.0.0 www.modulo-beton.no
 0.0.0.0 www.mpproductions.no
-m0.0.0.0 www.yrseth-multimedia.no
+0.0.0.0 www.myrseth-multimedia.no
 0.0.0.0 www.nabitita1870.blogspot.no
 0.0.0.0 www.najaden.no
 0.0.0.0 www.neo-select.no
@@ -257,8 +257,6 @@ m0.0.0.0 www.yrseth-multimedia.no
 0.0.0.0 www.varg.no
 0.0.0.0 www.velorbis-bikes.no
 0.0.0.0 www.veteranutleie.no
-0.0.0.0 www.vg.no
-0.0.0.0 www.dagbladet.no
 0.0.0.0 www.vibb.no
 0.0.0.0 www.villanytt.no
 0.0.0.0 www.volvoselektshop.no
