@@ -279,4 +279,5 @@ m0.0.0.0 www.yrseth-multimedia.no
 0.0.0.0 www.nytimes.no
 0.0.0.0 www.rikstoto.no
 0.0.0.0 www.scanliftmaskin.no
+0.0.0.0 norsk-tipping.pxf.io
 
