@@ -102,7 +102,6 @@
 0.0.0.0 www.filene.no
 0.0.0.0 www.finerplater.no
 0.0.0.0 www.fiskeguiden.no
-0.0.0.0 www.flash.vg.no
 0.0.0.0 www.form.no
 0.0.0.0 www.fotovideo.no
 0.0.0.0 www.freeporn4everyone.blogspot.no
@@ -115,7 +114,7 @@
 0.0.0.0 www.godlunsj.no
 0.0.0.0 www.gravorskilt.no
 0.0.0.0 www.gri.no
-0.0.0.0 www.grilldressene.no
+grilldressene.no
 0.0.0.0 www.gsm.no
 0.0.0.0 www.gullsmedrydeng.no
 0.0.0.0 www.h-sport.no
@@ -258,6 +257,8 @@ m0.0.0.0 www.yrseth-multimedia.no
 0.0.0.0 www.varg.no
 0.0.0.0 www.velorbis-bikes.no
 0.0.0.0 www.veteranutleie.no
+0.0.0.0 www.vg.no
+0.0.0.0 www.dagbladet.no
 0.0.0.0 www.vibb.no
 0.0.0.0 www.villanytt.no
 0.0.0.0 www.volvoselektshop.no
@@ -279,4 +280,3 @@ m0.0.0.0 www.yrseth-multimedia.no
 0.0.0.0 www.scanliftmaskin.no
 0.0.0.0 norsk-tipping.pxf.io
 0.0.0.0 www.vg.no/kommersielt-innhold
-
