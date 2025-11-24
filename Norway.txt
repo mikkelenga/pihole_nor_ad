@@ -276,7 +276,7 @@ grilldressene.no
 0.0.0.0 www.nytimes.no
 0.0.0.0 www.rikstoto.no
 0.0.0.0 www.scanliftmaskin.no
-0.0.0.0 norsk-tipping.pxf.io
+0.0.0.0 www.norsk-tipping.pxf.io
 0.0.0.0 tilbudsjeger.nettavisen.no
 0.0.0.0 assets.acdn.no
 0.0.0.0 clk.tradedoubler.com
