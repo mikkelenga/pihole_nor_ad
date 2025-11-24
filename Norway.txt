@@ -23,7 +23,6 @@
 0.0.0.0 www.ads.norindex.no
 0.0.0.0 www.ads.sol.no
 0.0.0.0 www.ads.stepstone.no
-0.0.0.0 www.ads.vg.no
 0.0.0.0 www.ads.zchat.no
 0.0.0.0 www.advert.api.no
 0.0.0.0 www.advokatcw.no
@@ -73,7 +72,6 @@
 0.0.0.0 www.clasohlson.no
 0.0.0.0 www.click.dagbladet.no
 0.0.0.0 www.click.trafikkfondet.no
-0.0.0.0 www.click.vgnett.no
 0.0.0.0 www.comitas.no
 0.0.0.0 www.corina-pfbassoe.no
 0.0.0.0 www.cupido.no
@@ -280,4 +278,5 @@ m0.0.0.0 www.yrseth-multimedia.no
 0.0.0.0 www.rikstoto.no
 0.0.0.0 www.scanliftmaskin.no
 0.0.0.0 norsk-tipping.pxf.io
+0.0.0.0 www.vg.no/kommersielt-innhold
 
