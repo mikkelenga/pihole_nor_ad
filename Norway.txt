@@ -279,5 +279,7 @@ m0.0.0.0 www.yrseth-multimedia.no
 0.0.0.0 www.rikstoto.no
 0.0.0.0 www.scanliftmaskin.no
 0.0.0.0 norsk-tipping.pxf.io
-0.0.0.0 www.vg.no/kommersielt-innhold/
-0.0.0.0 www.vg.no/annonsorinnhold/
+0.0.0.0 www.vg.no/kommersielt-innhold
+0.0.0.0 www.vg.no/annonsorinnhold
+0.0.0.0 www.vg.no/kommersielt-innhold/forbrukertips
+0.0.0.0 www.vg.no/black-friday
