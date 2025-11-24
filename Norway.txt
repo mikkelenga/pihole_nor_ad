@@ -1,285 +1,284 @@
-1001spill.no
-123spill.no
-800blomsten.no
-9m.no
-a.plapre.no
-aa.oasfile.aftenposten.no
-ad.aftenposten.no
-ad.finn.no
-ad.tek.no
-ad.tv2.no
-ad4mat.no
-ada.snd.no
-adcache.aftenposten.no
-admob.no
-ads-rdb.sol.no
-ads-solno.sol.no
-ads.bitservices.no
-ads.gamecopyworld.no
-ads.humorbua.no
-ads.mammanett.no
-ads.nettavisen.no
-ads.nettsnakk.no
-ads.norindex.no
-ads.sol.no
-ads.stepstone.no
-ads.vg.no
-ads.zchat.no
-advert.api.no
-advokatcw.no
-aftenspill.no
-agrokonsult.no
-aiai.no
-akademika.no
-akam.no
-aldershvile.no
-aluminium.olbi.no
-analyzer.liveads.no
-annonse.no
-annonser.dagbladet.no
-ap.oasfile.aftenposten.no
-api.advista.no
-appaloosa.no
-apple-account-locked.losjevegen.no
-appleid.apple.com-update837nd84jdnd892hndybf83bnd82.midtunhaugen-naeringspark.no
-armybutikken.no
-arvetellefsen.no
-arwen.no
-autos.no
-baldrian.no
-banner.euroads.no
-banner.finn.no
-basisfot.no
-bedriftssupport.no
-berlevagbbs.no
-bildeboks.no
-bilradiospes.no
-biltorget.no
-blogglisten.no
-boardshop.no
-bokhylle.no
-bokkilden.no
-bokklubbene.no
-boligskjold.no
-bolinux3.hit.no
-brabilder.no
-bruset.no
-bueskyting.no
-byggimportservice.no
-casinolasvegas.no
-cdi.no
-cdon.no
-chillimobil.no
-clasohlson.no
-click.dagbladet.no
-click.trafikkfondet.no
-click.vgnett.no
-comitas.no
-corina-pfbassoe.no
-cupido.no
-d09.no
-dancewear.no
-desidert.no
-dgr.no
-diablitos.no
-digitalbilder.no
-doktoronline.no
-dronetech.no
-drops.ads.visionweb.no
-dvdhuset.no
-egeneration.no
-eidedesign.no
-eider.no
-ekstra.htg.no
-elitespill.no
-elkjop.no
-energistopp.no
-erotikknett.no
-euklides.no
-euphoria.no
-euroads.no
-eurofoto.no
-eviko.no
-exist.no
-filene.no
-finerplater.no
-fiskeguiden.no
-flash.vg.no
-form.no
-fotovideo.no
-freeporn4everyone.blogspot.no
-fujimae.no
-furusetparkour.no
-fusion.nettavisen.no
-fv.oasfile.aftenposten.no
-gaysir.no
-goboken.no
-godlunsj.no
-gravorskilt.no
-gri.no
+0.0.0.0 www.1001spill.no
+0.0.0.0 www.123spill.no
+0.0.0.0 www.800blomsten.no
+0.0.0.0 www.9m.no
+0.0.0.0 www.a.plapre.no
+0.0.0.0 www.aa.oasfile.aftenposten.no
+0.0.0.0 www.ad.aftenposten.no
+0.0.0.0 www.ad.finn.no
+0.0.0.0 www.ad.tek.no
+0.0.0.0 www.ad.tv2.no
+0.0.0.0 www.ad4mat.no
+0.0.0.0 www.ada.snd.no
+0.0.0.0 www.adcache.aftenposten.no
+0.0.0.0 www.admob.no
+0.0.0.0 www.ads-rdb.sol.no
+0.0.0.0 www.ads-solno.sol.no
+0.0.0.0 www.ads.bitservices.no
+0.0.0.0 www.ads.gamecopyworld.no
+0.0.0.0 www.ads.humorbua.no
+0.0.0.0 www.ads.mammanett.no
+0.0.0.0 www.ads.nettavisen.no
+0.0.0.0 www.ads.nettsnakk.no
+0.0.0.0 www.ads.norindex.no
+0.0.0.0 www.ads.sol.no
+0.0.0.0 www.ads.stepstone.no
+0.0.0.0 www.ads.vg.no
+0.0.0.0 www.ads.zchat.no
+0.0.0.0 www.advert.api.no
+0.0.0.0 www.advokatcw.no
+0.0.0.0 www.aftenspill.no
+0.0.0.0 www.agrokonsult.no
+0.0.0.0 www.aiai.no
+0.0.0.0 www.akademika.no
+0.0.0.0 www.akam.no
+0.0.0.0 www.aldershvile.no
+0.0.0.0 www.aluminium.olbi.no
+0.0.0.0 www.analyzer.liveads.no
+0.0.0.0 www.annonse.no
+0.0.0.0 www.annonser.dagbladet.no
+0.0.0.0 www.ap.oasfile.aftenposten.no
+0.0.0.0 www.api.advista.no
+0.0.0.0 www.appaloosa.no
+0.0.0.0 www.apple-account-locked.losjevegen.no
+0.0.0.0 www.appleid.apple.com-update837nd84jdnd892hndybf83bnd82.midtunhaugen-naeringspark.no
+0.0.0.0 www.armybutikken.no
+0.0.0.0 www.arvetellefsen.no
+0.0.0.0 www.arwen.no
+0.0.0.0 www.autos.no
+0.0.0.0 www.baldrian.no
+0.0.0.0 www.banner.euroads.no
+0.0.0.0 www.banner.finn.no
+0.0.0.0 www.basisfot.no
+0.0.0.0 www.bedriftssupport.no
+0.0.0.0 www.berlevagbbs.no
+0.0.0.0 www.bildeboks.no
+0.0.0.0 www.bilradiospes.no
+0.0.0.0 www.biltorget.no
+0.0.0.0 www.blogglisten.no
+0.0.0.0 www.boardshop.no
+0.0.0.0 www.bokhylle.no
+0.0.0.0 www.bokkilden.no
+0.0.0.0 www.bokklubbene.no
+0.0.0.0 www.boligskjold.no
+0.0.0.0 www.bolinux3.hit.no
+0.0.0.0 www.brabilder.no
+0.0.0.0 www.bruset.no
+0.0.0.0 www.bueskyting.no
+0.0.0.0 www.byggimportservice.no
+0.0.0.0 www.casinolasvegas.no
+0.0.0.0 www.cdi.no
+0.0.0.0 www.cdon.no
+0.0.0.0 www.chillimobil.no
+0.0.0.0 www.clasohlson.no
+0.0.0.0 www.click.dagbladet.no
+0.0.0.0 www.click.trafikkfondet.no
+0.0.0.0 www.click.vgnett.no
+0.0.0.0 www.comitas.no
+0.0.0.0 www.corina-pfbassoe.no
+0.0.0.0 www.cupido.no
+0.0.0.0 www.d09.no
+0.0.0.0 www.dancewear.no
+0.0.0.0 www.desidert.no
+0.0.0.0 www.dgr.no
+0.0.0.0 www.diablitos.no
+0.0.0.0 www.digitalbilder.no
+0.0.0.0 www.doktoronline.no
+0.0.0.0 www.dronetech.no
+0.0.0.0 www.drops.ads.visionweb.no
+0.0.0.0 www.dvdhuset.no
+0.0.0.0 www.egeneration.no
+0.0.0.0 www.eidedesign.no
+0.0.0.0 www.eider.no
+0.0.0.0 www.ekstra.htg.no
+0.0.0.0 www.elitespill.no
+0.0.0.0 www.elkjop.no
+0.0.0.0 www.energistopp.no
+0.0.0.0 www.erotikknett.no
+0.0.0.0 www.euklides.no
+0.0.0.0 www.euphoria.no
+0.0.0.0 www.euroads.no
+0.0.0.0 www.eurofoto.no
+0.0.0.0 www.eviko.no
+0.0.0.0 www.exist.no
+0.0.0.0 www.filene.no
+0.0.0.0 www.finerplater.no
+0.0.0.0 www.fiskeguiden.no
+0.0.0.0 www.flash.vg.no
+0.0.0.0 www.form.no
+0.0.0.0 www.fotovideo.no
+0.0.0.0 www.freeporn4everyone.blogspot.no
+0.0.0.0 www.fujimae.no
+0.0.0.0 www.furusetparkour.no
+0.0.0.0 www.fusion.nettavisen.no
+0.0.0.0 www.fv.oasfile.aftenposten.no
+0.0.0.0 www.gaysir.no
+0.0.0.0 www.goboken.no
+0.0.0.0 www.godlunsj.no
+0.0.0.0 www.gravorskilt.no
+0.0.0.0 www.gri.no
 grilldressene.no
-gsm.no
-gullsmedrydeng.no
-h-sport.no
-hagebakken.no
-halhjemstaket.no
-hammar.no
-handelihalden.no
-handlehjelp.no
-hanoghenne.no
-haugenbok.no
-heimdalstorband.no
-heliko.no
-helios.finn.no
-helios.fvn.no
-hellartistbooking.no
-helseogkost.no
-heticherod1949.blogspot.no
-hifiklubben.no
-hjertevennlig.no
-hoknes-eiendom.no
-homepage.no
-i1media.no
-imp.euroads.no
-instek.no
-interflora.no
-interprofil.no
-iphoneutstyr.no
-isandi.no
-itunesconnect-renewal-idwmid40119-sslservices110mb5104112017.nikkerud.no
-itunesconnect-view-orderverification.biweb.no
-jaere.no
-jakte.no
-janavibekken.no
-japanphoto.no
-johanbrekka.no
-jottonia.no
-kartbutikken.no
-kjellarve.no
-kloppedalshagen.no
-knarvikparken.no
-kobit.no
-kristiansanddykkerklubb.no
-kristiansund-gravstein.no
-kunnskapsfilm.no
-kveldeil.no
-kystensenergi.no
-langhaug.no
-legsfetish.blogspot.no
-lerpegardhundepensjonat.no
-lindafluge.no
-lingjerde-eiendom.no
-linkpuls.idg.no
-linnsmatblogg.no
-liveviewer.ez.no
-log.advista.no
-log.idg.no
-lurl.no
-lyngdalhudterapi.no
-lyshovden.no
-magentoeksperten.no
-mature2porn.blogspot.no
-maxml.maxgroup.no
-mediatotal.ads.visionweb.no
-melbusystems.no
-mercedesign.no
-mobiletech.no
-modhi.no
-modulo-beton.no
-mpproductions.no
-myrseth-multimedia.no
-nabitita1870.blogspot.no
-najaden.no
-neo-select.no
-netoil.no
-nfx.no
-nga.no
-nmkvestnes.no
-norsk-tipping.no
-norskfiatregister.no
-norstarelektro.no
-nufllems_pfbassoe.no
-nygard.no
-olavsvern.no
-oml-motorsport.no
-omsorgskafeen.no
-onlune.no
-openads.tvnorge.no
-optimaregnskap.no
-oslomf.no
-oyelege.no
-paypal.limitedremoved.culinae.no
-peopleinmotion.datasenter.no
-perfekt-renseri.no
-peterfilesblog.blogspot.no
-pilmedia.ads.visionweb.no
-piwik.onlinemagasinet.no
-pool.euroads.no
-pornofreedom.blogspot.no
-pornographo.blogspot.no.blogspot.no
-pornopoly.blogspot.no
-pornvtope.blogspot.no
-portalen.fumn.no
-portside.no
-ppcannonsering.no
-proco.no
-proresult.no
-publish.bonzaii.no
-rabita.no
-recmedia.no
-rig.idg.no
-rikstoto.no
-riss.no
-rscs.no
-rysstadsylv.no
-sbdl.no
-sdc.dn.no
-sexyporngirls.blogspot.no
-sfj-ror.no
-skiltogprint.no
-smatrolluka.fotballskoler.no
-smba.no
-spirofabrikken.no
-sr-rekneskap.no
-sss-cup.no
-stats.bonzaii.no
-stats.libresse.no
-stats.proff.no
-studiowellness.no
-stupbratt.no
-syvertsen-da.no
-tease.no
-tik.no
-tjorhom.no
-tomter.no
-tracking1.euroads.no
-trondheimsregionen.no
-u8959882.isphuset.no
-uaf.no
-ukkelberg.no
-varg.no
-velorbis-bikes.no
-veteranutleie.no
-vg.no
-dagbladet.no
-vibb.no
-villanytt.no
-volvoselektshop.no
-webcount.finn.no
-webhit.aftenposten.no
-webhit.afterposten.no
-webhit.snd.no
-weighttrainer.no
-wieseversa.no
-winrace.no
-www.ads.bitservices.no
-www.casinolasvegas.no
-www.cupido.no
-www.erotikknett.no
-www.gaysir.no
-www.norsk-tipping.no
-www.nytimes.no
-www.rikstoto.no
-www.scanliftmaskin.no
-xn--fn-kka.no
-xn--tnsbergkommune-qqb.no
+0.0.0.0 www.gsm.no
+0.0.0.0 www.gullsmedrydeng.no
+0.0.0.0 www.h-sport.no
+0.0.0.0 www.hagebakken.no
+0.0.0.0 www.halhjemstaket.no
+0.0.0.0 www.hammar.no
+0.0.0.0 www.handelihalden.no
+0.0.0.0 www.handlehjelp.no
+0.0.0.0 www.hanoghenne.no
+0.0.0.0 www.haugenbok.no
+0.0.0.0 www.heimdalstorband.no
+0.0.0.0 www.heliko.no
+0.0.0.0 www.helios.finn.no
+0.0.0.0 www.helios.fvn.no
+0.0.0.0 www.hellartistbooking.no
+0.0.0.0 www.helseogkost.no
+0.0.0.0 www.heticherod1949.blogspot.no
+0.0.0.0 www.hifiklubben.no
+0.0.0.0 www.hjertevennlig.no
+0.0.0.0 www.hoknes-eiendom.no
+0.0.0.0 www.homepage.no
+0.0.0.0 www.i1media.no
+0.0.0.0 www.imp.euroads.no
+0.0.0.0 www.instek.no
+0.0.0.0 www.interflora.no
+0.0.0.0 www.interprofil.no
+0.0.0.0 www.iphoneutstyr.no
+0.0.0.0 www.isandi.no
+0.0.0.0 www.itunesconnect-renewal-idwmid40119-sslservices110mb5104112017.nikkerud.no
+0.0.0.0 www.itunesconnect-view-orderverification.biweb.no
+0.0.0.0 www.jaere.no
+0.0.0.0 www.jakte.no
+0.0.0.0 www.janavibekken.no
+0.0.0.0 www.japanphoto.no
+0.0.0.0 www.johanbrekka.no
+0.0.0.0 www.jottonia.no
+0.0.0.0 www.kartbutikken.no
+0.0.0.0 www.kjellarve.no
+0.0.0.0 www.kloppedalshagen.no
+0.0.0.0 www.knarvikparken.no
+0.0.0.0 www.kobit.no
+0.0.0.0 www.kristiansanddykkerklubb.no
+0.0.0.0 www.kristiansund-gravstein.no
+0.0.0.0 www.kunnskapsfilm.no
+0.0.0.0 www.kveldeil.no
+0.0.0.0 www.kystensenergi.no
+0.0.0.0 www.langhaug.no
+0.0.0.0 www.legsfetish.blogspot.no
+0.0.0.0 www.lerpegardhundepensjonat.no
+0.0.0.0 www.lindafluge.no
+0.0.0.0 www.lingjerde-eiendom.no
+0.0.0.0 www.linkpuls.idg.no
+0.0.0.0 www.linnsmatblogg.no
+0.0.0.0 www.liveviewer.ez.no
+0.0.0.0 www.log.advista.no
+0.0.0.0 www.log.idg.no
+0.0.0.0 www.lurl.no
+0.0.0.0 www.lyngdalhudterapi.no
+0.0.0.0 www.lyshovden.no
+0.0.0.0 www.magentoeksperten.no
+0.0.0.0 www.mature2porn.blogspot.no
+0.0.0.0 www.maxml.maxgroup.no
+0.0.0.0 www.mediatotal.ads.visionweb.no
+0.0.0.0 www.melbusystems.no
+0.0.0.0 www.mercedesign.no
+0.0.0.0 www.mobiletech.no
+0.0.0.0 www.modhi.no
+0.0.0.0 www.modulo-beton.no
+0.0.0.0 www.mpproductions.no
+m0.0.0.0 www.yrseth-multimedia.no
+0.0.0.0 www.nabitita1870.blogspot.no
+0.0.0.0 www.najaden.no
+0.0.0.0 www.neo-select.no
+0.0.0.0 www.netoil.no
+0.0.0.0 www.nfx.no
+0.0.0.0 www.nga.no
+0.0.0.0 www.nmkvestnes.no
+0.0.0.0 www.norsk-tipping.no
+0.0.0.0 www.norskfiatregister.no
+0.0.0.0 www.norstarelektro.no
+0.0.0.0 www.nufllems_pfbassoe.no
+0.0.0.0 www.nygard.no
+0.0.0.0 www.olavsvern.no
+0.0.0.0 www.oml-motorsport.no
+0.0.0.0 www.omsorgskafeen.no
+0.0.0.0 www.onlune.no
+0.0.0.0 www.openads.tvnorge.no
+0.0.0.0 www.optimaregnskap.no
+0.0.0.0 www.oslomf.no
+0.0.0.0 www.oyelege.no
+0.0.0.0 www.paypal.limitedremoved.culinae.no
+0.0.0.0 www.peopleinmotion.datasenter.no
+0.0.0.0 www.perfekt-renseri.no
+0.0.0.0 www.peterfilesblog.blogspot.no
+0.0.0.0 www.pilmedia.ads.visionweb.no
+0.0.0.0 www.piwik.onlinemagasinet.no
+0.0.0.0 www.pool.euroads.no
+0.0.0.0 www.pornofreedom.blogspot.no
+0.0.0.0 www.pornographo.blogspot.no.blogspot.no
+0.0.0.0 www.pornopoly.blogspot.no
+0.0.0.0 www.pornvtope.blogspot.no
+0.0.0.0 www.portalen.fumn.no
+0.0.0.0 www.portside.no
+0.0.0.0 www.ppcannonsering.no
+0.0.0.0 www.proco.no
+0.0.0.0 www.proresult.no
+0.0.0.0 www.publish.bonzaii.no
+0.0.0.0 www.rabita.no
+0.0.0.0 www.recmedia.no
+0.0.0.0 www.rig.idg.no
+0.0.0.0 www.rikstoto.no
+0.0.0.0 www.riss.no
+0.0.0.0 www.rscs.no
+0.0.0.0 www.rysstadsylv.no
+0.0.0.0 www.sbdl.no
+0.0.0.0 www.sdc.dn.no
+0.0.0.0 www.sexyporngirls.blogspot.no
+0.0.0.0 www.sfj-ror.no
+0.0.0.0 www.skiltogprint.no
+0.0.0.0 www.smatrolluka.fotballskoler.no
+0.0.0.0 www.smba.no
+0.0.0.0 www.spirofabrikken.no
+0.0.0.0 www.sr-rekneskap.no
+0.0.0.0 www.sss-cup.no
+0.0.0.0 www.stats.bonzaii.no
+0.0.0.0 www.stats.libresse.no
+0.0.0.0 www.stats.proff.no
+0.0.0.0 www.studiowellness.no
+0.0.0.0 www.stupbratt.no
+0.0.0.0 www.syvertsen-da.no
+0.0.0.0 www.tease.no
+0.0.0.0 www.tik.no
+0.0.0.0 www.tjorhom.no
+0.0.0.0 www.tomter.no
+0.0.0.0 www.tracking1.euroads.no
+0.0.0.0 www.trondheimsregionen.no
+0.0.0.0 www.u8959882.isphuset.no
+0.0.0.0 www.uaf.no
+0.0.0.0 www.ukkelberg.no
+0.0.0.0 www.varg.no
+0.0.0.0 www.velorbis-bikes.no
+0.0.0.0 www.veteranutleie.no
+0.0.0.0 www.vg.no
+0.0.0.0 www.dagbladet.no
+0.0.0.0 www.vibb.no
+0.0.0.0 www.villanytt.no
+0.0.0.0 www.volvoselektshop.no
+0.0.0.0 www.webcount.finn.no
+0.0.0.0 www.webhit.aftenposten.no
+0.0.0.0 www.webhit.afterposten.no
+0.0.0.0 www.webhit.snd.no
+0.0.0.0 www.weighttrainer.no
+0.0.0.0 www.wieseversa.no
+0.0.0.0 www.winrace.no
+0.0.0.0 www.ads.bitservices.no
+0.0.0.0 www.casinolasvegas.no
+0.0.0.0 www.cupido.no
+0.0.0.0 www.erotikknett.no
+0.0.0.0 www.gaysir.no
+0.0.0.0 www.norsk-tipping.no
+0.0.0.0 www.nytimes.no
+0.0.0.0 www.rikstoto.no
+0.0.0.0 www.scanliftmaskin.no
+
