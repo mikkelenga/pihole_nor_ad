@@ -117,7 +117,7 @@
 0.0.0.0 www.godlunsj.no
 0.0.0.0 www.gravorskilt.no
 0.0.0.0 www.gri.no
-grilldressene.no
+0.0.0.0 www.grilldressene.no
 0.0.0.0 www.gsm.no
 0.0.0.0 www.gullsmedrydeng.no
 0.0.0.0 www.h-sport.no
@@ -260,8 +260,6 @@ m0.0.0.0 www.yrseth-multimedia.no
 0.0.0.0 www.varg.no
 0.0.0.0 www.velorbis-bikes.no
 0.0.0.0 www.veteranutleie.no
-0.0.0.0 www.vg.no
-0.0.0.0 www.dagbladet.no
 0.0.0.0 www.vibb.no
 0.0.0.0 www.villanytt.no
 0.0.0.0 www.volvoselektshop.no
