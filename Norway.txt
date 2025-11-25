@@ -285,3 +285,5 @@
 0.0.0.0 www.digi.no
 0.0.0.0 wwww.abonnement.tumedia.no/bestilling
 0.0.0.0 images.gfx.no
+0.0.0.0 collector.schibsted.io
+0.0.0.0 www.collector.schibsted.io
