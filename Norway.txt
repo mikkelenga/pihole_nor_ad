@@ -283,3 +283,4 @@
 0.0.0.0 www.nettavisen.no
 0.0.0.0 www.itavisen.no
 0.0.0.0 www.digi.no
+0.0.0.0 wwww.abonnement.tumedia.no
