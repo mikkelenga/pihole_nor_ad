@@ -287,4 +287,5 @@
 0.0.0.0 images.gfx.no
 0.0.0.0 collector.schibsted.io
 0.0.0.0 www.collector.schibsted.io
-0.0.0.0 www.tek.no/mobilabonnement/
+0.0.0.0 www.tek.no
+0.0.0.0 www.tek.no/mobilabonnement/front-embed?
