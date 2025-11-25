@@ -114,7 +114,7 @@
 0.0.0.0 www.godlunsj.no
 0.0.0.0 www.gravorskilt.no
 0.0.0.0 www.gri.no
-grilldressene.no
+0.0.0.0 www.grilldressene.no
 0.0.0.0 www.gsm.no
 0.0.0.0 www.gullsmedrydeng.no
 0.0.0.0 www.h-sport.no
@@ -280,4 +280,5 @@ grilldressene.no
 0.0.0.0 tilbudsjeger.nettavisen.no
 0.0.0.0 assets.acdn.no
 0.0.0.0 clk.tradedoubler.com
-0.0.0.0 www.nettavisen.no/shoppingtips
+0.0.0.0 www.nettavisen.no
+0.0.0.0 www.itavisen.no
