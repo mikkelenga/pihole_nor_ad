@@ -287,11 +287,4 @@
 0.0.0.0 images.gfx.no
 0.0.0.0 gfx.no
 0.0.0.0 collector.schibsted.io
-0.0.0.0 www.tek.no
-0.0.0.0 www.ringsaker-blad.no
-0.0.0.0 www.glomdalen.no
-0.0.0.0 www.oa.no
-0.0.0.0 www.ostledningen.no
-0.0.0.0 www.framtidinord.no
-0.0.0.0 www.gd.no
-0.0.0.0 www.nordlys.no
+
