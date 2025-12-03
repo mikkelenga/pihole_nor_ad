@@ -283,5 +283,4 @@
 0.0.0.0 wwww.abonnement.tumedia.no
 0.0.0.0 images.gfx.no
 0.0.0.0 gfx.no
-0.0.0.0 collector.schibsted.io
 
