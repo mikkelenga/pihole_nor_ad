@@ -90,7 +90,6 @@
 0.0.0.0 www.eider.no
 0.0.0.0 www.ekstra.htg.no
 0.0.0.0 www.elitespill.no
-0.0.0.0 www.elkjop.no
 0.0.0.0 www.energistopp.no
 0.0.0.0 www.erotikknett.no
 0.0.0.0 www.euklides.no
